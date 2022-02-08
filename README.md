@@ -1,2 +1,2 @@
 # OddLingo.github.io
-Readubg material in sitelen pona
+Reading material in Toki Pona, using sitelen pona.
